@@ -19,9 +19,9 @@ This comprehensive data set from The Meteoritical Society contains information o
 
 **Location**
 ![Known Meteorite Landing Sites](images/Known-Meteorite-Landings-Sites.png)
-- Approximately 74% of known meteorite landing sites are in the southern hemisphere.
+Approximately 74% of known meteorite landing sites are in the southern hemisphere.
 ![Southern Hemisphere Known Meteorite Landings](images/Southern-Hemisphere-Known-Meteorite-Landings.png)
-- Approximately 26% of known meteorite landing sites are in the northern  hemisphere.
+Approximately 26% of known meteorite landing sites are in the northern  hemisphere.
 ![Northern Hemisphere Known Meteorite Landings](images/Northern-Hemisphere-Known-Meteorite-Landings.png)
 
 **Limitations**
